@@ -2,14 +2,12 @@
   <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead" style="width: 100%; height: auto; max-height: 200px;">
 </div>
 
-<h1 align="center">Hello World, This is Manas</h1>
+<h1 align="center">Hello World, This is Manas 𖤍 </h1>
 <h3 align="center">Developer Bridging Web Applications, AI & Cybersecurity.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif">
 
 - 🕵️‍♂️ On a journey to master **Cyber Threat Intelligence.**
 
-- ⚡ Fun fact **Code💻, Coffee☕, Chaos🥷🏻; That's my Life:)**
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
