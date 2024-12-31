@@ -3,13 +3,15 @@
 </div>
 
 <h1 align="center">Hello World, This is Manas 𖤍 </h1>
-<h3 align="center">Developer Bridging Web Applications, AI & Cybersecurity.</h3>
+<h3 align="center">Developer Bridging WEB APPLICATIONS, AI & CYBERSECURITY.</h3>
+<br>
 
-- 🕵️‍♂️ On a journey to master **Cyber Threat Intelligence.**
+
+- 🕵️‍♂️ On a journey to master **CYBER THREAT INTELLIGENCE.🔎**
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif">
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
