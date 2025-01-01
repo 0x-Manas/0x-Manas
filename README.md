@@ -7,9 +7,9 @@
 <br>
 
 
-- 🕵️‍♂️ On a journey to master **CYBER THREAT INTELLIGENCE.🔎**
+- 🕵️‍♂️ I'm on my journey to master **CYBER THREAT INTELLIGENCE.🔎**
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif">
+<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/6425/screenshots/5039369/media/b3cde89f60217b488113e23cb457d973.gif">
 
 
 <p align="left">
