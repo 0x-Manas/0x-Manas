@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello World, This is Manas 𖤍 </h1>
-<h3 align="center">A Developer Bridging WEB APPLICATIONS, AI & CYBERSECURITY.</h3>
+<h3 align="center">Merely a developer connecting the dots between AI APPLICATIONS & CYBERSECURITY.</h3>
 <br>
 
 
